@@ -1,0 +1,16 @@
+[
+{
+  "modid": "svtfoe",
+  "name": "Star Vs The Forces of Evil",
+  "description": "A Star Vs The Forces of Evil mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Flynamic"],
+  "credits": "Daron Nefcy and Co for creating Star Vs The Forces of Evil.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

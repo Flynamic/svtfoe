@@ -1,0 +1,12 @@
+run/
+.gradle/
+build/
+gradle-app.setting
+gradle/
+
+## IntelliJ IDEA
+
+.idea/
+*.iml
+*.iws
+*.ipr
